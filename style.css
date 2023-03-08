@@ -55,7 +55,6 @@ section.normal{
     color: black;
 }
 section.imagem{
-    display: inline-block;
     background-color: black;
     color: white;
     background-attachment: fixed;
